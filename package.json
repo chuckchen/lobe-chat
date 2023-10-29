@@ -126,7 +126,7 @@
     "@lobehub/i18n-cli": "latest",
     "@lobehub/lint": "latest",
     "@next/bundle-analyzer": "^13",
-    "@next/eslint-plugin-next": "^13",
+    "@next/eslint-plugin-next": "^14.0.0",
     "@testing-library/jest-dom": "^6",
     "@testing-library/react": "^14",
     "@types/chroma-js": "^2",
